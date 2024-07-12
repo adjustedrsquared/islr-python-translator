@@ -1,6 +1,6 @@
 # islr-python [Archive from 2018]
 
-## What is islr-python?
+## What is islr-python-translator?
 
 [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) ("ISLR" for short) is a great practical introduction to machine learning. This repository is my personal attempt to "translate" the R Code in the book (contained in R Labs and Applied Exercises as well as some Conceptual Exercises) into Python. I have fancifully replaced the R in ISLR with P to reflect the change in programming language.
 
